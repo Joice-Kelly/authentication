@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+}
+
+@font-face {
+  font-family: 'bold';
+  src: url(../src/assets/font/Cruinn\ Bold.ttf);
+}
+
+@font-face {
+  font-family: 'regular';
+  src: url(../src/assets/font/Cruinn\ Regular.ttf);
+}
